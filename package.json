@@ -1,0 +1,20 @@
+{
+  "name": "danast-night-theme",
+  "displayName": "Danast Night",
+  "description": "Danast Night custom theme generated from current settings",
+  "version": "0.0.1",
+  "publisher": "Danast",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Danast Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Danast-Night.json"
+      }
+    ]
+  },
+  "icon": "dn-theme-icon.png"
+}
