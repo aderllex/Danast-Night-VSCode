@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Danast Night (копия)">
-  <style name="Text" foreground="#fbfffd" background="#1d1f21"/>
+<style-scheme version="1.0" name="danast-night">
+  <style name="Text" foreground="#e0e0e6" background="#1d1f21"/>
   <style name="Link" foreground="#f0f347"/>
   <style name="Selection" foreground="#c5c8c6" background="#373b41"/>
   <style name="LineNumber" foreground="#373b41"/>
@@ -22,20 +22,20 @@
   <style name="Type" foreground="#e75b6b"/>
   <style name="Concept" foreground="#e75b6b"/>
   <style name="Namespace" foreground="#e75b6b"/>
-  <style name="Local" foreground="#718cfa"/>
-  <style name="Parameter" foreground="#e5aa6f"/>
+  <style name="Local" foreground="#e8e8ed"/>
+  <style name="Parameter" foreground="#e5aa6f" italic="true"/>
   <style name="Global" foreground="#bc98fa"/>
-  <style name="Field" foreground="#c5c8c6"/>
+  <style name="Field" foreground="#c782cc"/>
   <style name="Static" foreground="#66a334" italic="true"/>
   <style name="VirtualMethod" foreground="#f0f356" italic="true"/>
   <style name="Function" foreground="#f0f356"/>
-  <style name="Keyword" foreground="#5889ec" bold="true"/>
+  <style name="Keyword" foreground="#5889ec" bold="true" italic="true"/>
   <style name="PrimitiveType" foreground="#c782cc"/>
   <style name="Operator" foreground="#8abeb7"/>
   <style name="Overloaded Operator" foreground="#00677c"/>
   <style name="Punctuation"/>
-  <style name="Preprocessor" foreground="#df65c3"/>
-  <style name="Macro" foreground="#d57af9"/>
+  <style name="Preprocessor" foreground="#d57af9" bold="true" italic="true"/>
+  <style name="Macro" foreground="#d57af9" bold="true" italic="true"/>
   <style name="Label" foreground="#509ce3" bold="true"/>
   <style name="Attribute" foreground="#808000"/>
   <style name="Comment" foreground="#969896"/>
@@ -76,7 +76,7 @@
   <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
-  <style name="Declaration" bold="true"/>
+  <style name="Declaration"/>
   <style name="FunctionDefinition"/>
   <style name="OutputArgument" italic="true"/>
   <style name="StaticMember"/>
