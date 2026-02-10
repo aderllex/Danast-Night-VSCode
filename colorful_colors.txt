@@ -1,0 +1,89 @@
+Список цветных (не серых) цветов в теме Danast-Night:
+===========================================================
+
+SEMANTIC TOKEN COLORS:
+----------------------
+annotation:dart: #ff00ff (яркий пурпурный)
+enumMember: #66a334 (зеленый)
+macro: #d57af9 (фиолетовый)
+memberOperatorOverload: #ff00ff (яркий пурпурный)
+namespace: #56b6c2 (голубой)
+namespace.cpp: #56b6c2 (голубой)
+parameter.label:dart: #ff00ff (яркий пурпурный)
+property:dart: #ff00ff (яркий пурпурный)
+tomlArrayKey: #ff00ff (яркий пурпурный)
+variable:dart: #ff00ff (яркий пурпурный)
+variable.constant: #ff00ff (яркий пурпурный)
+variable.defaultLibrary: #c782cc (розово-фиолетовый)
+
+WORKBENCH COLORS:
+-----------------
+button.background: #b32b38 (красный)
+editorLineNumber.activeForeground: #c067ff (фиолетовый)
+editorError.foreground: #704040 (темно-красный)
+editorWarning.foreground: #407040 (темно-зеленый)
+editorInfo.foreground: #707040 (темно-желтый)
+activityBarBadge.background: #b32b38 (красный)
+
+TOKEN COLORS:
+-------------
+String: #d69545 (оранжевый)
+js template-expression: #c678dd (фиолетовый)
+Number: #de935f (оранжевый)
+Embeded String Begin and End: #c678dd (фиолетовый)
+Embeded String: #98c379 (зеленый)
+Built-in constant: #56b6c2 (голубой)
+User-defined constant: #56b6c2 (голубой)
+Language Variable: #5889ec (синий)
+Variable: #61afef (голубой)
+Keyword: #df65c3 (розовый)
+Keyword Operator: #27dba5 (бирюзовый)
+Storage: #e06c75 (красный)
+Storage modifier: #e06c75 (красный)
+Storage type: #5889ec (синий)
+Class name: #e75b6b (красный)
+Other variable: #a68feb (фиолетовый)
+Inherited class: #98c379 (зеленый)
+Function name: #f0f356 (желтый)
+Function argument: #e5aa6f (оранжевый)
+Function call: #f0f356 (желтый)
+Builtin Functions: #98c379 (зеленый)
+Tag name: #e06c75 (красный)
+Tag Class and ID: #e75b6b (красный)
+Tag attribute: #98c379 (зеленый)
+Library constant: #e75b6b (красный)
+Library class/type: #e75b6b (красный)
+Json Property: #e75b6b (красный)
+StyleSheet Property value: #98c379 (зеленый)
+StyleSheet Variable: #e75b6b (красный)
+StyleSheet Variable String: #d69545 (оранжевый)
+StyleSheet Unit: #c678dd (фиолетовый)
+StyleSheet Function: #e75b6b (красный)
+Invalid: background #c678dd (фиолетовый)
+Invalid deprecated: background #e75b6b (красный)
+JSON String: #e75b6b (красный)
+Link: #61afef (голубой)
+diff.deleted: #c678dd (фиолетовый)
+diff.inserted: #E5C07B (желтый)
+diff.changed: #E5C07B (желтый)
+constant.numeric.line-number.find-in-files: #56b6c2A0 (голубой с прозрачностью)
+entity.name.filename.find-in-files: #E5C07B (желтый)
+Markdown: Link: #61afef (голубой)
+Markdown: Heading: #e06c75 (красный)
+Markdown: Quote: #98c379 (зеленый)
+Markdown: Separator: #c678dd (фиолетовый)
+Markdown: Raw: #56b6c2 (голубой)
+token.info-token: #6796e6 (синий)
+token.warn-token: #cd9731 (желтый)
+token.error-token: #f44747 (красный)
+token.debug-token: #b267e6 (фиолетовый)
+
+СТАТИСТИКА:
+-----------
+Всего уникальных цветных цветов: ~30
+Основные цветовые группы:
+- Красные/Розовые: #e06c75, #e75b6b, #df65c3, #b32b38
+- Зеленые: #98c379, #66a334, #27dba5
+- Синие/Голубые: #61afef, #56b6c2, #5889ec
+- Фиолетовые: #c678dd, #d57af9, #c067ff, #ff00ff, #a68feb, #b267e6
+- Желтые/Оранжевые: #f0f356, #d69545, #de935f, #e5aa6f, #E5C07B

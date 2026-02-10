@@ -46,7 +46,7 @@
 		}
 	},
 	"colors": {
-		"foreground": "#eaeaef",
+		"foreground": "#e8e8ed",
 		"focusBorder": "#1c1c1f",
 		"input.background": "#121212",
 		"dropdown.background": "#121212",
@@ -62,7 +62,7 @@
 		"scrollbarSlider.background": "#4e566680",
 		"scrollbarSlider.hoverBackground": "#5a637580",
 		"scrollbarSlider.activeBackground": "#747d9180",
-		"editor.foreground": "#eaeaef",
+		"editor.foreground": "#e8e8ed",
 		"editor.background": "#1e1e20",
 		"editorWidget.background": "#1c1c1f",
 		"editor.selectionBackground": "#3e4451",
@@ -272,7 +272,7 @@
 			"name": "Variable Object",
 			"scope": "variable.other.object",
 			"settings": {
-				"foreground": "#eaeaef"
+				"foreground": "#e8e8ed"
 			}
 		},
 		{
