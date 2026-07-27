@@ -13,6 +13,11 @@
         "label": "Danast Night",
         "uiTheme": "vs-dark",
         "path": "./themes/Danast-Night.json"
+      },
+      {
+        "label": "Danast Night Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Danast-Night-Purple.json"
       }
     ]
   },
